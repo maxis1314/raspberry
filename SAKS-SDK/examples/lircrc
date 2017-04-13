@@ -1,0 +1,149 @@
+begin
+  remote = *
+  button = ch-
+  prog = pylirc
+  config = chm
+end
+
+begin
+  remote = *
+  button = ch
+  prog = pylirc
+  config = ch
+end
+
+begin
+  remote = *
+  button = ch+
+  prog = pylirc  
+  config = chp
+end
+
+begin
+  remote = *
+  button = prev
+  prog = pylirc
+  config = prev
+end
+
+begin
+  remote = *
+  button = next
+  prog = pylirc
+  config = next
+end
+
+begin
+  remote = *
+  button = pp
+  prog = pylirc
+  config = pp
+end
+
+begin
+  remote = *
+  button = vol-
+  prog = pylirc
+  config = volm
+end
+
+begin
+  remote = *
+  button = vol+
+  prog = pylirc
+  config = volp
+end
+
+begin
+  remote = *
+  button = eq
+  prog = pylirc
+  config = eq
+end
+
+begin
+  remote = *
+  button = 0
+  prog = pylirc
+  config = 0
+end
+
+begin
+  remote = *
+  button = 100+
+  prog = pylirc
+  config = 100p
+end
+
+begin
+  remote = *
+  button = 200+
+  prog = pylirc
+  config = 200p
+end
+
+begin
+  remote = *
+  button = 1
+  prog = pylirc
+  config = 1
+end
+
+begin
+  remote = *
+  button = 2
+  prog = pylirc
+  config = 2
+end
+
+begin
+  remote = *
+  button = 3
+  prog = pylirc
+  config = 3
+end
+
+begin
+  remote = *
+  button = 4
+  prog = pylirc
+  config = 4
+end
+
+begin
+  remote = *
+  button = 5
+  prog = pylirc
+  config = 5
+end
+
+begin
+  remote = *
+  button = 6
+  prog = pylirc
+  config = 6
+end
+
+begin
+  remote = *
+  button = 7
+  prog = pylirc
+  config = 7
+end
+
+begin
+  remote = *
+  button = 8
+  prog = pylirc
+  config = 8
+end
+
+begin
+  remote = *
+  button = 9
+  prog = pylirc
+  config = 9
+end
+
+
+ 
